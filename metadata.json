@@ -1,0 +1,7 @@
+{
+  "name": "IA 2026: L'Estat i el Futur",
+  "description": "Una plataforma educativa interactiva que resumeix les previsions i anàlisis sobre l'evolució de la Intel·ligència Artificial cap a l'any 2026.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
